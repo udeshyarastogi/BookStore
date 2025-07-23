@@ -68,4 +68,4 @@ This is a full-stack web application for a book store built using the MERN stack
 - [atharvkhardekar](https://github.com/atharvkhardekar)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.# BookStore
